@@ -1,5 +1,5 @@
 # Final Machine Learning Project: Customer Retail Dataset
-**Name:** Habib Ullah
+**Name:** Habib Ullah  
 **Institution:** University of Engineering and Technology, Lahore  
 **Program:** DevTown-Machine Learning
 
@@ -16,7 +16,6 @@ The categorical `Country` column was transformed into numeric values using `Labe
 ## 3. Customer Distribution Visualization
 Prior to training the models, the data was visualized to understand the distribution of transactions across different regions.
 
-![Customer Distribution](distribution.png)  
 *(Note: As seen in the graph, the dataset is heavily skewed, with the vast majority of transactions originating from the United Kingdom.)*
 
 ## 4. Machine Learning Models & Evaluation
@@ -205,7 +204,7 @@ KNN Confusion Matrix:
 
 5. Model Accuracy Comparison
 The following graph visually compares the accuracy scores of the three models.
-<img width="1190" height="842" alt="accuracy" src="https://github.com/user-attachments/assets/c050447f-ab1e-4e5f-a14a-5cf0efed57a9" />
+![Model Accuracy](https://github.com/user-attachments/assets/0d8f30bd-077f-48bc-8e6e-9201ca969b1e)
 
 
 
