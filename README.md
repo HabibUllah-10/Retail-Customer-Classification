@@ -205,7 +205,9 @@ KNN Confusion Matrix:
 
 5. Model Accuracy Comparison
 The following graph visually compares the accuracy scores of the three models.
-![Model Accuracy](accuracy.png)
+<img width="1190" height="842" alt="accuracy" src="https://github.com/user-attachments/assets/c050447f-ab1e-4e5f-a14a-5cf0efed57a9" />
+
+
 
 6. Conclusion
 This project successfully demonstrates how different Machine Learning algorithms perform on the same dataset. All three models yielded high accuracy (approximately 90-91%).
