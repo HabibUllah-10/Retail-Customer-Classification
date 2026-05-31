@@ -16,7 +16,7 @@ The categorical `Country` column was transformed into numeric values using `Labe
 ## 3. Customer Distribution Visualization
 Prior to training the models, the data was visualized to understand the distribution of transactions across different regions.
 
-*(Note: As seen in the graph, the dataset is heavily skewed, with the vast majority of transactions originating from the United Kingdom.)*
+*(Note: Please see the distribution graph file uploaded in this repository. As seen in the graph, the dataset is heavily skewed, with the vast majority of transactions originating from the United Kingdom.)*
 
 ## 4. Machine Learning Models & Evaluation
 Three supervised learning models were trained on the prepared dataset. To evaluate their performance on unseen testing data, we calculated their Accuracy Scores and generated Confusion Matrices.
