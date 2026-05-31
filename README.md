@@ -204,7 +204,7 @@ KNN Confusion Matrix:
 
 5. Model Accuracy Comparison
 The following graph visually compares the accuracy scores of the three models.
-![Model Accuracy](https://github.com/user-attachments/assets/0d8f30bd-077f-48bc-8e6e-9201ca969b1e)
+(Note: Please see the accuracy graph file uploaded in this repository.)
 
 
 
